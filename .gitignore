@@ -7,3 +7,6 @@ __pycache__/
 
 # Ignore large downloaded data files
 *.graphml
+
+# Ignore ALL data files in the data folder
+data/
