@@ -4,3 +4,6 @@ venv/
 # Ignore Python cache files
 __pycache__/
 *.pyc
+
+# Ignore large downloaded data files
+*.graphml
